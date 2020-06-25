@@ -1,0 +1,13 @@
+{
+  "name": "Fragments",
+  "short_name": "Fragments",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/?utm_source=app_homescreen",
+  
+  "theme_color": "#1BAF82",
+  
+  "background_color": "#FAFAFA",
+  "description": "India's community of Android, iOS, and mobile web developers",
+  
+}
